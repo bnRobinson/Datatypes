@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/datatypes.iml" filepath="$PROJECT_DIR$/.idea/datatypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/datatypes-exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/datatypes-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datatypes-studio.main.iml" filepath="$PROJECT_DIR$/.idea/modules/datatypes-studio.main.iml" />
     </modules>
   </component>
 </project>
